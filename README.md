@@ -1,13 +1,13 @@
 # Offre Commerciale : Création d'un Site Internet pour École Primaire
 
 ## 1. Présentation de l’entreprise
-Tortuga Security Systems 
+#Tortuga Security Systems 
 Spécialisée dans la création de sites internet et solutions digitales pour les institutions éducatives.
 
 **Coordonnées :**
 - Téléphone :(+212) 0629150854
 - Email : ts2mail2023@gmail.com
-- Site web : wwww.tor6stem.com
+- Site web : www.tor6stem.com
 
 ## 2. Objectif du projet
 Créer un site internet vitrine et fonctionnel pour l’école [Nom de l’école] afin de :
